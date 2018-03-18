@@ -1,0 +1,105 @@
+
+
+
+img {
+  width: 100% ;
+  height: auto ;
+}
+
+.cir {
+  border-radius: 50%;
+  width: 300;
+  height:200;
+}
+
+h1{
+  font-style: pt sans narrow bold;
+  font-size: 1.875em;
+  color: #323232;
+}
+h2{
+  font-style: pt sans narrow bold;
+  font-size: 1.5em;
+  color: #00897f;
+}
+h3{
+  font-style: pt serif regular;
+  font-size: 1em;
+  line-height: 2em;
+  color: #323232;
+}
+p{
+  font-style: pt serif regular;
+  font-size: .875em;
+  line-height: 1.75em;
+  color: #323232;
+}
+a{
+  font-style: pt serif bold;
+  font-size: 1em;
+  color: #f26522;
+}
+nav h1{
+  font-style: pt sans narrow bold;
+  font-size: 1.5em;
+  color: #323232;
+.c{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 45px;
+}
+.d{
+  text-align: justify;
+  padding-bottom: 80px;
+}
+
+.a > .b{
+  background-color: #F5F5F5;
+}
+.a > .c{
+  padding: 10px;
+  background-color: #F5F5F5;
+}
+.a > .b h2{
+  text-align: center;
+}
+.a > .b p{
+  text-align: justify;
+}
+.a > .c h2{
+  text-align: center;
+}
+.a > .c p{
+  text-align: justify;
+}
+
+.j{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 45px;
+}
+.bc {background-color: #F5F5F5;
+  padding-bottom: 80px;
+
+}
+.g > .h .{
+  background-color: #ffffff;
+}
+.g > .i{
+background-color: #ffffff;
+}
+
+.g > .i > h3 a{color: #f26522;
+}
+
+footer{background-color: #00897f;
+}
+footer h1{
+  font-style: pt sans narrow bold;
+  font-size: 1.25em;
+  color: #323232;
+}
+
+.q{
+  background-color: #ffffff;
+}
